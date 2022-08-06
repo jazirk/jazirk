@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue and Golang
 - 💞️ I’m looking to collaborate on Web development or Landing page developments.
 - 📫 How to reach me 
-  Linkedind : https://www.linkedin.com/in/jazirk
+  Linkedin : https://www.linkedin.com/in/jazirk
 
 <!---
 jazirk/jazirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
