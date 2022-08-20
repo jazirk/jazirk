@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Web development or Landing page developments.
 - 📫 How to reach me 
   Linkedin : https://www.linkedin.com/in/jazirk
+  Email: hello@jaasi.me
 
 <!---
 jazirk/jazirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
