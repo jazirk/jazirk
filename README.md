@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web development or Landing page developments.
 - 📫 How to reach me 
   Linkedin : https://www.linkedin.com/in/jazirk
-  Portfolio: jaasi.me
+  Portfolio: https://jaasi.me
   Email: hello@jaasi.me
 
 <!---
